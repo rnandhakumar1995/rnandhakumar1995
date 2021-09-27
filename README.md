@@ -1,5 +1,4 @@
 [![Header](/header.png "Header")](https://some-url.dev/)
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 [![Nandha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnandhakumar1995)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Kotlin, Paging 3.0
