@@ -1,7 +1,7 @@
 [![Header](/header.png "Header")](https://some-url.dev/)
 [![Nandha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnandhakumar1995&hide=stars,prs,issues,contribs&repo=Random_User_Profiles,KotlinBasic,Countdown_Timer_Jetpack_Compose)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnandhakumar1995)](https://github.com/anuraghazra/github-readme-stats)
-[![Nandha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rnandhakumar1995)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Nandha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rnandhakumar1995)](https://github.com/anuraghazra/github-readme-stats)-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Kotlin, Paging 3.0
 - 👯 I’m looking to collaborate on Android, Jetpack compose, Kotlin
