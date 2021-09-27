@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/rnandhakumar1995/<OWNER>/<OWNER>/header.png "Header")](https://some-url.dev/)
+[![Header](/header.png "Header")](https://some-url.dev/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Kotlin, Android
